@@ -1,4 +1,4 @@
-# Rotate the Matrix
+# Print the spiral  Matrix
 from typing import *
 
 def spiralMatrix(matrix : List[List[int]]) -> List[int]:
